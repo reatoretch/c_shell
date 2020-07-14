@@ -1,10 +1,11 @@
 # c_shell
-C言語で作ったshellっぽい何か
-パイプライン処理とリダイレクトが使えます(追記未対応）
+課題で作ったshell  
+パイプライン処理とリダイレクトが使用可能(追記未対応）
 
-# Commands：mycd,myecho,myexit
+## commands
+mycd,myecho,myexit
 
-# compile
+## compile
 
 ```
 gcc -o 実行ファイル名 shell.c -lm
